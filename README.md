@@ -46,8 +46,12 @@ The dataset provided contains patient history data with various attributes, incl
 
 10.Average Weight by Occupation: The average weight of patients is displayed by occupation type (e.g., White-collar Job, Blue-collar Job, Unemployed).
 
-# This dashboard provides a comprehensive view of the patient demographics, health conditions, and lifestyle factors, 
-# enabling health care professionals to analyze and understand the distribution and risk factors among patients effectively.
+This dashboard provides a comprehensive view of the patient demographics, health conditions, and lifestyle factors, 
+enabling health care professionals to analyze and understand the distribution and risk factors among patients effectively.
+
+#  Health-Care-Analytics-Dashboard
+![Dashboard](https://github.com/ashrafkhan778/Health-Care-Analytics-Dashboard/blob/main/Health%20Care%20Analytics.png)
+
 
 
 
