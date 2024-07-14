@@ -26,14 +26,28 @@ The dataset provided contains patient history data with various attributes, incl
 
 
 # Insights from the Health Care Analytics Dashboard
+1.Total Patients: There are 5,191 patients in the dataset.
 
+2.Female Patients Overweight: Out of the total patients, 1,409 females are overweight.
 
+3. Habit of Smoking with High Health Risk: There are 37 patients with a habit of smoking who are at high health risk.
 
+4.Patients with High & Moderate Health Risk: There are 859 patients categorized as having high or moderate health risk.
 
+5.Percentage of Heart Attack: 2.74% of the patients have had a heart attack.
 
+6.Percentage of Stroke: 1.73% of the patients have had a stroke.
 
+7.Count of Health Risk by Age Group: The count of patients at different health risk levels is categorized by age groups (e.g., 40-49, 50-59, 60-69, 70+, <40).
 
+8.Count of Overweight by Race: The number of overweight patients is broken down by race, with Chinese having the highest count at 2.10K, followed by Malay (0.48K), Indian (0.31K), and others.
 
+9.Count of Health by Health: The health status of patients is categorized as Good, Very Good, Not Good, and Poor.
+
+10.Average Weight by Occupation: The average weight of patients is displayed by occupation type (e.g., White-collar Job, Blue-collar Job, Unemployed).
+
+# This dashboard provides a comprehensive view of the patient demographics, health conditions, and lifestyle factors, 
+# enabling health care professionals to analyze and understand the distribution and risk factors among patients effectively.
 
 
 
